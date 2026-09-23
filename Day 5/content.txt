@@ -1,0 +1,4 @@
+absolte link - have the full protocol and link
+reffernce link - without protocol
+<br> - it makes a new line kind of thing
+adding email part in the website

@@ -1,0 +1,18 @@
+inline css - inside the body no special tags for style.
+internal css - in the head inside a seperate script box.
+
+#cons of inline--
+a.inline - there is no reusability.
+cascady - the last typed coloured will be priotiised.
+
+-###selectors###-
+tag selectors
+id selectors
+class selectors - 
+        h1{color: rgb(34, 134, 134);} - tag
+        p{color: cadetblue;} - tag
+        #title{color: rgb(205, 26, 94);} - id 
+
+practise.html - uss file ko dekhr utna pakka hai ki - id ka value sbse jyda hai.
+
+width is applicable only in paragraph tag and not in the span.
